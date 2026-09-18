@@ -3,13 +3,13 @@
 # How to Work Remotely: Using Google Meet
 
 
-# by David D. Sykes
+# by David D. Sykes, Documentation Engineer
 
 
  ![Google Image](Google.png)
 
 
-> Photo From: https://gsuite.google.com/products/meet/
+> __Photo From__: https://gsuite.google.com/products/meet/
 
 ## Audience and Scope: 
 
@@ -25,7 +25,7 @@ Google Meet is a communication software product developed by Google. Google Meet
 
  ![Google Image](ImageofGoogleMeets.jpg)
 
-__Figure 1: Image of Google Meet__
+> __Figure 1: Image of Google Meet__
 
 The steps for starting a video meeting are to start a meeting from a web browser, mobile phone or a Google calendar event that includes a video meeting link. The exact steps are to: In a web browser, enter https://meet.google.com followed by 
 1.	Click Join or start meeting.
@@ -38,9 +38,9 @@ In order to understand how a video conference works, we need to discuss a few of
  
  ![ Diagram Google Image](diagram.png)
  
-__Figure 2: Diagram of How Google Meet works.__
+> __Figure 2: Diagram of How Google Meet works.__
 
-Google Meet Composition:
+## Google Meet Composition:
 
 _Google Meet_ is a standard-based video conferencing application using proprietary protocols for video, audio and data transcoding. Google has partnered with Pexip to provide interoperability between the Google protocol and standard-based SIP/H.323 protocol to enable communication between Google Meet. Google Meet comes with additional features designed for business use which include:
 
