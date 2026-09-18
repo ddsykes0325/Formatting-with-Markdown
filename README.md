@@ -31,7 +31,7 @@ The steps for starting a video meeting are to start a meeting from a web browser
 In order to understand how a video conference works, we need to discuss a few of the basic concepts of video conferencing.  Video conferencing means to conduct a conference between two or more participants at different sites by using computer networks to transmit audio and video data. For example, a point-to-point (two-person) video conferencing system works much like a video telephone. Each participant has a video camera, microphone and speakers mounted on the computer. As the two participants speak to one another, their voices are carried over the network and delivered  to the other’s speaker. In addition, whatever image appear in front of the video camera in a window on the other participant’s monitor.
 
  
-
+ ![ Diagram Google Image](diagram.png)
 Figure 2: Diagram of How Google Meet works.
 
 Google Meet Composition:
