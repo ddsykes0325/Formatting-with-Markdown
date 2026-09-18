@@ -1,5 +1,3 @@
-
-
 # How to Work Remotely: Using Google Meet
 
 
