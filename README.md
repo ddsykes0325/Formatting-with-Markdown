@@ -3,7 +3,7 @@
 # How to Work Remotely: Using Google Meet
 
 
-### by David D. Sykes, Documentation Engineer
+## by David D. Sykes, Documentation Engineer
 
 
  ![Google Image](Google.png)
