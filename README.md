@@ -9,7 +9,7 @@
  ![Google Image](Google.png)
 
 
-Photo From: https://gsuite.google.com/products/meet/
+> Photo From: https://gsuite.google.com/products/meet/
 
 ## Audience and Scope: 
 
@@ -24,6 +24,7 @@ The intended audience for this document is upperclassman in high school and coll
 Google Meet is a communication software product developed by Google. Google Meet is written in the software language called Java. Google Meet became a standalone product in 2013. Google would then start developing Google Meet to become an enterprise communication tool. Google Meet is now part of the Google Suite line of products which consist of Google Meet and Google Hangout Chat. 
 
  ![Google Image](ImageofGoogleMeets.jpg)
+
 __Figure 1: Image of Google Meet__
 
 The steps for starting a video meeting are to start a meeting from a web browser, mobile phone or a Google calendar event that includes a video meeting link. The exact steps are to: In a web browser, enter https://meet.google.com followed by 
