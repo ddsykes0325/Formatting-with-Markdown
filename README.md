@@ -31,7 +31,7 @@ Figure 2: Diagram of How Google Meet works.
 
 Google Meet Composition:
 
-Google Meet is a standard-based video conferencing application using proprietary protocols for video, audio and data transcoding. Google has partnered with Pexip to provide interoperability between the Google protocol and standard-based SIP/H.323 protocol to enable communication between Google Meet. Google Meet comes with additional features designed for business use which include:
+_Google Meet_ is a standard-based video conferencing application using proprietary protocols for video, audio and data transcoding. Google has partnered with Pexip to provide interoperability between the Google protocol and standard-based SIP/H.323 protocol to enable communication between Google Meet. Google Meet comes with additional features designed for business use which include:
 
 •	Participants can share their screens
 •	The screen automatically focuses on the person who is speaking, and “intelligent muting” prevents background noise.
