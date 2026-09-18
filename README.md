@@ -14,7 +14,8 @@ The purpose of this document is to provide the audience with a general understan
 The intended audience for this document is upperclassman in high school and college students who are interested in the Science, Technology, Engineering  and Math (STEM) fields. This document will make clear connections between the concepts that are learned in STEM related courses and how you can use these concepts to create software products. The understanding of creating software products like Google Meet will give the audience a better idea of the things that they can do in careers in the STEM fields.
 An Introduction to Google Meet:
 Google Meet is a communication software product developed by Google. Google Meet is written in the software language called Java. Google Meet became a standalone product in 2013. Google would then start developing Google Meet to become an enterprise communication tool. Google Meet is now part of the Google Suite line of products which consist of Google Meet and Google Hangout Chat. 
- 
+
+ ![Google Image](ImageofGoogleMeets.jpg)
 Figure 1: Image of Google Meet
 
 The steps for starting a video meeting are to start a meeting from a web browser, mobile phone or a Google calendar event that includes a video meeting link. The exact steps are to: In a web browser, enter https://meet.google.com followed by 
