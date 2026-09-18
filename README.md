@@ -1,8 +1,10 @@
 
 
-## How to Work Remotely: Using Google Meet
-David D. Sykes
- 
+# How to Work Remotely: Using Google Meet
+
+ ![Google Image](Google.png)
+
+## David D. Sykes
 Photo From: https://gsuite.google.com/products/meet/
 Audience and Scope: 
 The purpose of this document is to provide the audience with a general understanding how Google Meet works and the physical concepts that were used to create this software Google Meet. This document will focus on how to use Google Meet and the general dynamic of Google Meet rather than a specific product (such as Zoom). There are a ton of video conference software available on the Internet. To	 name a few, there is Zoom, GoToMeeting, Skype and Google Meet. Google Meet is the most commonly used software for people to have conferences on the Internet. Google Meet is a communication software product developed by Google. Google Meet was originally a feature of Google+ that would later become a standalone product in 2013. Google would also begin to integrate features from Google+ Messenger and Google Talk into Google Meet. In 2017, Google began to develop Google Meet into a product aimed at enterprise communication. After reading this document the audience will have a history of Google Meet, and understand how to work Google Meet.
