@@ -2,9 +2,13 @@
 
 # How to Work Remotely: Using Google Meet
 
+
+## by David D. Sykes
+
+
  ![Google Image](Google.png)
 
-## David D. Sykes
+
 Photo From: https://gsuite.google.com/products/meet/
 
 ## Audience and Scope: 
