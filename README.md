@@ -44,12 +44,12 @@ In order to understand how a video conference works, we need to discuss a few of
 
 _Google Meet_ is a standard-based video conferencing application using proprietary protocols for video, audio and data transcoding. Google has partnered with Pexip to provide interoperability between the Google protocol and standard-based SIP/H.323 protocol to enable communication between Google Meet. Google Meet comes with additional features designed for business use which include:
 
-•	Participants can share their screens
-•	The screen automatically focuses on the person who is speaking, and “intelligent muting” prevents background noise.
-•	Businesses can host Hangouts on Air and public livestreams that are automatically saved to business’s YouTube account
-•	Integration with Google Calendar for one-click start of a Google Meet conversation at the beginning of a meeting
-•	Custom controls for admins, including limiting access, turning chat history off, and the ability to eject participants for privacy
-•	Custom status messages.
+- Participants can share their screens
+- The screen automatically focuses on the person who is speaking, and “intelligent muting” prevents background noise.
+- Businesses can host Hangouts on Air and public livestreams that are automatically saved to business’s YouTube account
+- Integration with Google Calendar for one-click start of a Google Meet conversation at the beginning of a meeting
+- Custom controls for admins, including limiting access, turning chat history off, and the ability to eject participants for privacy
+- Custom status messages.
 
 ## Conclusion:
 
