@@ -13,14 +13,14 @@ Photo From: https://gsuite.google.com/products/meet/
 
 ## Audience and Scope: 
 
-The purpose of this document is to provide the audience with a general understanding how Google Meet works and the physical concepts that were used to create this software Google Meet. This document will focus on how to use Google Meet and the general dynamic of Google Meet rather than a specific product (such as Zoom). There are a ton of video conference software available on the Internet. To	 name a few, there is Zoom, GoToMeeting, Skype and Google Meet. Google Meet is the most commonly used software for people to have conferences on the Internet. Google Meet is a communication software product developed by Google. Google Meet was originally a feature of Google+ that would later become a standalone product in 2013. Google would also begin to integrate features from Google+ Messenger and Google Talk into Google Meet. In 2017, Google began to develop Google Meet into a product aimed at enterprise communication. After reading this document the audience will have a history of Google Meet, and understand how to work Google Meet.
+The purpose of this document is to provide the audience with a general understanding how Google Meet works and the physical concepts that were used to create this software __Google Meet__. This document will focus on how to use Google Meet and the general dynamic of Google Meet rather than a specific product (such as Zoom). There are a ton of video conference software available on the Internet. To	 name a few, there is Zoom, GoToMeeting, Skype and Google Meet. Google Meet is the most commonly used software for people to have conferences on the Internet. Google Meet is a communication software product developed by Google. Google Meet was originally a feature of Google+ that would later become a standalone product in 2013. Google would also begin to integrate features from Google+ Messenger and Google Talk into Google Meet. In 2017, Google began to develop Google Meet into a product aimed at enterprise communication. After reading this document the audience will have a history of Google Meet, and understand how to work Google Meet.
 
 The intended audience for this document is upperclassman in high school and college students who are interested in the Science, Technology, Engineering  and Math (STEM) fields. This document will make clear connections between the concepts that are learned in STEM related courses and how you can use these concepts to create software products. The understanding of creating software products like Google Meet will give the audience a better idea of the things that they can do in careers in the STEM fields.
 An Introduction to Google Meet:
 Google Meet is a communication software product developed by Google. Google Meet is written in the software language called Java. Google Meet became a standalone product in 2013. Google would then start developing Google Meet to become an enterprise communication tool. Google Meet is now part of the Google Suite line of products which consist of Google Meet and Google Hangout Chat. 
 
  ![Google Image](ImageofGoogleMeets.jpg)
-Figure 1: Image of Google Meet
+__Figure 1: Image of Google Meet__
 
 The steps for starting a video meeting are to start a meeting from a web browser, mobile phone or a Google calendar event that includes a video meeting link. The exact steps are to: In a web browser, enter https://meet.google.com followed by 
 1.	Click Join or start meeting.
@@ -32,7 +32,8 @@ In order to understand how a video conference works, we need to discuss a few of
 
  
  ![ Diagram Google Image](diagram.png)
-Figure 2: Diagram of How Google Meet works.
+ 
+__Figure 2: Diagram of How Google Meet works.__
 
 Google Meet Composition:
 
