@@ -48,12 +48,13 @@ _Google Meet_ is a standard-based video conferencing application using proprieta
 ## Conclusion:
 
 With advancements in technology working from home has become a possibility for many workers. Google Meet and other conference technologies allow for people to work from home and have tele-health meetings with doctors, and technical interviews for software engineering roles. I personally love using Google Meet and I have had several interviews with software companies for internships. I will continue to use Google Meet as technology brings us closer together as humans.
+
 ## References:
 
 Most of the knowledge in this paper has come from my experience using Google Meet which I have used for technical interviews with software companies.
 Other references are below:
 
-https://gsuite.google.com/products/meet/
-https://meet.google.com/
-https://www.businessinsider.com/what-is-google-meet
+- https://gsuite.google.com/products/meet/
+- https://meet.google.com/
+- https://www.businessinsider.com/what-is-google-meet
 
